@@ -1,0 +1,14 @@
+C:\c#\Prova---CSharp\API\Prova\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Prova---CSharp\API\Prova\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.AssemblyInfoInputs.cache
+C:\c#\Prova---CSharp\API\Prova\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.AssemblyInfo.cs
+C:\c#\Prova---CSharp\API\Prova\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.csproj.CoreCompileInputs.cache
+C:\c#\Prova---CSharp\API\Prova\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.MvcApplicationPartsAssemblyInfo.cache
+C:\c#\Prova---CSharp\API\Prova\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.sourcelink.json
+C:\c#\Prova---CSharp\API\Prova\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.csproj.AssemblyReference.cache
+C:\c#\Prova---CSharp\API\Tagore\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.csproj.AssemblyReference.cache
+C:\c#\Prova---CSharp\API\Tagore\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\Prova---CSharp\API\Tagore\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.AssemblyInfoInputs.cache
+C:\c#\Prova---CSharp\API\Tagore\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.AssemblyInfo.cs
+C:\c#\Prova---CSharp\API\Tagore\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.csproj.CoreCompileInputs.cache
+C:\c#\Prova---CSharp\API\Tagore\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.MvcApplicationPartsAssemblyInfo.cache
+C:\c#\Prova---CSharp\API\Tagore\MinimalApiProject\obj\Debug\net8.0\MinimalApiProject.sourcelink.json
